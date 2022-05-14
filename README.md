@@ -1,7 +1,7 @@
-high pass of box blur
+Common Adjustments
 =========
 
-A custom GEGL operation (and by extension GIMP filter) that implements a reversal of Box Blur's algorithm to sharpen images'
+A custom GEGL operation that puts most of Gimp's color filters and a sharpen in one place. 
 
 
 
